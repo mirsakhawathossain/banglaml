@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url>
+     <loc>https://banglaml.github.io/</loc>
+     <lastmod>2021-09-15</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://banglaml.github.io/Article/MachineLearning/</loc>
+     <lastmod>2021-09-15</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://banglaml.github.io/Article/AIPython/</loc>
+     <lastmod>2021-09-15</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://banglaml.github.io/Tutorial/PythonBasic/</loc>
+     <lastmod>2021-09-15</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://banglaml.github.io/Math/RandomForest/</loc>
+     <lastmod>2021-09-15</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://banglaml.github.io/ResearchPaper/ResearchPaper/</loc>
+     <lastmod>2021-09-15</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+</urlset>
